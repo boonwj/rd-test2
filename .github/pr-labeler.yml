@@ -1,0 +1,10 @@
+build: 'build--*'
+chore: 'chore--*'
+ci: 'ci--*'
+docs: 'docs--*'
+feat: ['feat--*', 'feature--*', 'enhancement--*']
+fix: ['fix--*', 'bugfix--*', 'bug--*']
+perf: 'perf--*'
+refactor: ['refactor--*', 'refac--*']
+test: 'test--*'
+infra: 'infra--*'
